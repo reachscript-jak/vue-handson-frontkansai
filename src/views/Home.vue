@@ -43,13 +43,13 @@ export default {
     }
   },
   created() {
-    console.log('created!');
+    // console.log('created!');
   },
   mounted() {
-    console.log('mounted!');
+    // console.log('mounted!');
   },
   beforeDestroy() {
-    console.log('beforeDestroy');
+    // console.log('beforeDestroy');
   },
 }
 </script>
